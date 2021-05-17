@@ -1,0 +1,42 @@
+.m{
+  font-family: times new roman;
+  background-image: url(flag.GIF);
+  background-position: right;
+  background-repeat: no-repeat;
+  text-align: left;
+  background-color: green;
+  padding: 10px;
+  color: white yellow;
+  border-radius: ;
+  border-left-style: double;
+  border-width:15px;
+  border-color: black;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  box-shadow: 1px 3px 100px 40px;
+
+}
+.kim{
+  font-size:30px;
+  text-align: justify;
+  background-color: white;
+  width: 55%;
+  border-radius:20px;
+  border-left-style: double;
+  border-right-style: double;
+  border-width:10px;
+  box-shadow: 1px 3px 90px;
+  font-weight: bold;
+
+}
+.kimz{
+  font-size:65px;
+  font-weight: bold;
+  background-color: white;
+  width:45%;
+  border-radius:20px;
+  border-left-style: double;
+  border-right-style: double;
+  border-width: 15px;
+  box-shadow: 1px 3px 90px;
+}
